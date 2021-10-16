@@ -52,6 +52,7 @@ header h2, .container
 	font-weight: 600;
 	color: #fff;
 	cursor: pointer;
+	height: 54px;
 }
 .container .todo-header button img
 {
