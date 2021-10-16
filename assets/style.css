@@ -31,3 +31,8 @@ header h2, .container
 {
 	margin: 43px 0 55px;
 }
+.container .todo-header h1
+{
+	font-size: 36px;
+	color: #111;
+}
