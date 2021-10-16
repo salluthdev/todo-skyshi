@@ -27,3 +27,7 @@ header h2, .container
 	width: 976px;
 	margin: 0 auto;
 }
+.container .todo-header
+{
+	margin: 43px 0 55px;
+}
