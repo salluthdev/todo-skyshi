@@ -50,6 +50,7 @@ header h2, .container
 	font-size: 18px;
 	font-weight: 600;
 	color: #fff;
+	cursor: pointer;
 }
 .container .todo-header button img
 {
