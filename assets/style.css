@@ -40,6 +40,7 @@ header h2, .container
 }
 .container .todo-header button
 {
+	border: none;
 	padding: 13px 21px 13px 14px;
 	background: #16abf8;
 	color: #fff;
