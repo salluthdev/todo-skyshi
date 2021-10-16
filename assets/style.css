@@ -14,5 +14,8 @@ header
 {
 	height: 105px;
 	background: #16abf8;
-
+}
+header h2
+{
+	color: #fff;
 }
