@@ -29,6 +29,8 @@ header h2, .container
 }
 .container .todo-header
 {
+	display: flex;
+	justify-content: space-between;
 	margin: 43px 0 55px;
 }
 .container .todo-header h1
