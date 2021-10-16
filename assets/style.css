@@ -20,7 +20,11 @@ header
 }
 header h2
 {
-	width: 976px;
 	color: #fff;
 	margin-bottom: 8px;
+}
+header h2, .container
+{
+	width: 976px;
+	margin: 0 auto;
 }
