@@ -40,6 +40,9 @@ header h2, .container
 }
 .container .todo-header button
 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	border: none;
 	border-radius: 45px;
 	padding: 13px 21px 13px 14px;
