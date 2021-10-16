@@ -12,6 +12,9 @@ body
 }
 header
 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	height: 105px;
 	background: #16abf8;
 }
