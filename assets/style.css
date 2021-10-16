@@ -31,10 +31,12 @@ header h2, .container
 {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 	margin: 43px 0 55px;
 }
 .container .todo-header h1
 {
+	height: 46px;
 	font-size: 36px;
 	color: #111;
 	margin-bottom: 8px;
