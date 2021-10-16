@@ -47,8 +47,9 @@ header h2, .container
 	border-radius: 45px;
 	padding: 13px 28px;
 	background: #16abf8;
-	color: #fff;
 	font-size: 18px;
+	font-weight: 600;
+	color: #fff;
 }
 .container .todo-header button img
 {
