@@ -31,7 +31,7 @@ header h2, .container
 {
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	align-items: flex-start;
 	margin: 43px 0 55px;
 }
 .container .todo-header h1
